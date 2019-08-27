@@ -1,3 +1,6 @@
+[![goodtables.io](https://goodtables.io/badge/github/AntoineAugusti/forfait-antipollution-idfm.svg)](https://goodtables.io/github/AntoineAugusti/forfait-antipollution-idfm)
+[![Software License](https://img.shields.io/badge/Licence-Licence%20ouverte-orange?style=flat-square)](https://github.com/AntoineAugusti/forfait-antipollution-idfm/blob/master/LICENSE.md)
+
 # Jours d'application du forfait antipollution par Île-de-France Mobilités
 
 Le forfait « antipollution » toutes zones, créé en 2017, est un forfait au tarif de 3,80€ pour la journée avec accès illimité aux transports en région parisienne.
