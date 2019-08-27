@@ -1,0 +1,27 @@
+{
+    "$schema":"https://frictionlessdata.io/schemas/table-schema.json",
+    "title":"Forfait antipollution en région parisienne",
+    "description":"Jours d'application du forfait antipollution par Île-de-France Mobilités",
+    "author":"Antoine Augusti",
+    "contact":"antoine.augusti@gmail.com",
+    "version":"0.1.0",
+    "created":"2019-08-27",
+    "updated":"2019-08-27",
+    "homepage":"https://github.com/AntoineAugusti/forfait-antipollution-idfm",
+    "uri":"https://github.com/AntoineAugusti/forfait-antipollution-idfm/raw/v0.1.0/schema.json",
+    "fields":[
+        {
+            "name":"date",
+            "description":"Date où le forfait antipollution était disponible à la vente",
+            "example":"2019-02-05",
+            "type":"date",
+            "constraints":{
+                "required":true
+            }
+        }
+    ],
+    "missingValues":[
+        ""
+    ],
+    "primaryKey":"date"
+}
